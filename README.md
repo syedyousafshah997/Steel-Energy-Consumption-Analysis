@@ -190,26 +190,3 @@ Multiple regression models were trained and evaluated using standard performance
 
 ---
 
-# Requirements
-
-Install the required libraries using:
-
-```bash
-pip install -r requirements.txt
-```
-
-Contents of `requirements.txt`:
-
-```text
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-openpyxl
-```
-
----
-
-
-University of Engineering & Technology (UET) Peshawar
