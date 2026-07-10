@@ -96,25 +96,25 @@ The following analyses were performed:
 
 ## Correlation Heatmap
 
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](Images/heatmap.png)
 
 ---
 
 ## Outlier Detection (Usage_kWh)
 
-![Boxplot](images/boxplot.png)
+![Boxplot](Images/boxplot.png)
 
 ---
 
 ## Average Energy Consumption by Load Type
 
-![Load Type](images/load_type.png)
+![Load Type](Images/loadtype.png)
 
 ---
 
 ## Average Hourly Energy Consumption
 
-![Hourly Usage](images/hourly_usage.png)
+![Hourly Usage](Images/hourly_usage.png)
 
 ---
 
@@ -159,13 +159,13 @@ Each model was evaluated using:
 
 ## RMSE Comparison
 
-![RMSE Comparison](images/rmse_comparison.png)
+![RMSE Comparison](Images/rmse_comparison.png)
 
 ---
 
 ## Predicted vs Actual Values
 
-![Predicted vs Actual](images/predicted_vs_actual.png)
+![Predicted vs Actual](Images/predicted_vs_actual.png)
 
 ---
 
